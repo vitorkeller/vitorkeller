@@ -1,18 +1,23 @@
-# Olá! Meu nome é Vitor 👋
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=cf0e0e&reversal=true"/>
+  <h1>👋 Olá, me chamo Vitor Keller </h1>
+    
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=CF0E0E&color:FFF)](https://www.linkedin.com/in/vitorkeller/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=CF0E0E&color:FFF)](https://github.com/vitorkeller/)
+  [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=CF0E0E&color:FFF)](https://portfolio-vitorkeller.vercel.app/)
 
-### Formação
+  
+  ### 🌱 Estou construindo meu caminho
+  
+  ### Principais tecnologias
+  
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,c,python"/>
+  </div>
+  
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vitorkeller&show_icons=true&count_private=true&hide_border=true&title_color=CF0E0E&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorkeller&layout=compact&hide_border=true&title_color=CF0E0E&text_color=FFFF&bg_color=0d1117"/>
+</div>
 
-- 🖥️ Bacharel em Engenharia de Software (conclusão em 2028)
-- ⌨️ Cursos específicos na área de Tecnologia.
-
-### Resumo Profissional
-
-- Atualmente sou estudante de Engenharia de Software no 2° Semestre no Centro Universitário Católica de Santa Catarina em Joinville. Me interesso por **Front-end**. Busco adquirir experiência profissional e aprimorar meus conhecimentos práticos e teóricos para inserção no mercado de trabalho.
-
-### Entre em contato!
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vitorkeller/) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:vitorkeller1604@hotmail.com)
-
-## Habilidades sendo desenvolvidas
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://github.com/vitorkeller)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitorkeller&bg_color=000&border_color=30A3DC&title_color=FFF&text_color=FFF)
+</div>

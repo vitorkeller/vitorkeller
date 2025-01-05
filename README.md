@@ -7,7 +7,8 @@
   [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=CF0E0E&color:FFF)](https://portfolio-vitorkeller.vercel.app/)
 
   
-  ### 🌱 Estou estudando programação
+  ### 🌱 Estou estudando programação.
+  ### Construindo meu caminho.
   
   ### Principais tecnologias
   

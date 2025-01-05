@@ -3,17 +3,17 @@
   <h1>👋 Olá, me chamo Vitor Keller </h1>
     
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=CF0E0E&color:FFF)](https://www.linkedin.com/in/vitorkeller/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=CF0E0E&color:FFF)](https://github.com/vitorkeller/)
   [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=CF0E0E&color:FFF)](https://portfolio-vitorkeller.vercel.app/)
 
   
   ### 🌱 Estou estudando programação.
   ### Construindo meu caminho.
-  
+   <br>
+   
   ### Principais tecnologias
   
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,c,python"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,c"/>
   </div>
   
 <div align="center">  

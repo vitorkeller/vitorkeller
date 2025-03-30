@@ -1,17 +1,21 @@
-<div style="display: flex;">
-  <h6>Languages:</h6>
-  <img src="https://img.shields.io/badge/HTML-%20?style=flat-square&logo=html5&logoColor=white&color=700f0a" height="16" />
-  <img src="https://img.shields.io/badge/CSS3-%20?style=flat-square&logo=css3&logoColor=white&color=4e0b1e" height="16" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-%20?style=flat-square&logo=javascript&logoColor=white&color=3e0928" height="16" />
-  <img src="https://img.shields.io/badge/SQL-%20?style=flat-square&logo=mysql&logoColor=white&color=01004d" height="16"/>
-  <h6>Frameworks:</h6>
-  <img src="https://img.shields.io/badge/express.js-00000?style=flat-square&logo=express&logoColor=white&color=700f0a" height="16" />
-  <img src="https://img.shields.io/badge/TAILWIND-%20?style=flat-square&logo=Tailwind%20CSS&logoColor=white&color=01004d" height="16" />
-</div>
+## Perfil social:
 
----
+<a href="https://linkedin.com/in/vitorkeller/" target="blank"><img align="center" src="https://img.shields.io/badge/-linkedin-000%3F%26logo%3Dlinkedin?style=for-the-badge&logo=linkedin&logoColor=blue&color=black"   alt="" height="30" /></a>
+<a href="https://portfolio-vitorkeller.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-000%3F%26logo%3Demail?style=for-the-badge&logo=twitter&logoColor=blue&color=black" alt="" height="30" /></a>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vitorkeller&show_icons=true&count_private=true&hide_border=true&title_color=CF0E0E&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorkeller&layout=compact&hide_border=true&title_color=CF0E0E&text_color=FFFF&bg_color=0d1117"/>
-</div>
+## Linguagens:
+
+![Static Badge](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-javascript-000%3F%26logo%3Djavascript?style=for-the-badge&logo=javascript&logoColor=yellow&color=black)
+![Static Badge](https://img.shields.io/badge/-python-000%3F%26logo%3Dpython?style=for-the-badge&logo=python&logoColor=voilet&color=black)
+![Static Badge](https://img.shields.io/badge/-sql-000%3F%26logo%3Dsql?style=for-the-badge&logo=sql&logoColor=orange&color=black)
+
+## Técnologias:
+
+![Static Badge](https://img.shields.io/badge/-node-000%3F%26logo%3DNode?style=for-the-badge&logo=nodedotjs&logoColor=green&color=black)
+![Static Badge](https://img.shields.io/badge/-Express-000%3F%26logo%3DExpress?style=for-the-badge&logo=Express&logoColor=green&color=black)
+![Static Badge](https://img.shields.io/badge/-React-000%3F%26logo%3DReact?style=for-the-badge&logo=React&logoColor=blue&color=black)
+![Static Badge](https://img.shields.io/badge/-mysql-000%3F%26logo%3Dmysql?style=for-the-badge&logo=mysql&logoColor=blue&color=black)
+![Static Badge](https://img.shields.io/badge/-spring-000%3F%26logo%3Dspring?style=for-the-badge&logo=spring&logoColor=green&color=black)
+
+<a href="https://www.github.com/vitorkeller"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=vitorkeller&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,cf0e0e,ffc64d,ffc64d,ffc64d,cf0e0e&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorkeller&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,cf0e0e,ffc64d,ffc64d,ffc64d,cf0e0e&theme=graywhite" /></a>

@@ -9,7 +9,7 @@
 ![Static Badge](https://img.shields.io/badge/-javascript-000%3F%26logo%3Djavascript?style=for-the-badge&logo=javascript&logoColor=yellow&color=black)
 ![Static Badge](https://img.shields.io/badge/-sql-000%3F%26logo%3Dsql?style=for-the-badge&logo=sql&logoColor=orange&color=black)
 
-## Técnologias:
+## Tecnologias:
 
 ![Static Badge](https://img.shields.io/badge/-node-000%3F%26logo%3DNode?style=for-the-badge&logo=nodedotjs&logoColor=green&color=black)
 ![Static Badge](https://img.shields.io/badge/-Express-000%3F%26logo%3DExpress?style=for-the-badge&logo=Express&logoColor=green&color=black)
